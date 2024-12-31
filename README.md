@@ -15,7 +15,7 @@ Below is a list of contracts we use for this service:
 
 <dl>
   <dt>AbyssEth2Depositor</dt>
-  <dd>A smart contract that accepts up to 3200 ETH and sends up to 100 transactions with required collateral (32 ETH) to Eth2 Deposit Contract.</dd>
+  <dd>A smart contract that accepts up to 1000 ETH and sends up to 100 transactions with required collateral (10 ETH) to Eth2 Deposit Contract.</dd>
 </dl>
 
 Installation
